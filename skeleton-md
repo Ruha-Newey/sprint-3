@@ -1,0 +1,5 @@
+What happens to the layout when you resize the screen to less than 550 px. How do you think that works?
+
+Well, I think that if your css is on point it should change the layout of your website to accomidate a smaller screen
+ie. a phone or tablet. I think that in your code you need to specify how small the site can go untill you hit a cirtain
+size that triggers a response in the code to change the layout, at least, thats how i think it should/could work. 
